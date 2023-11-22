@@ -1,0 +1,19 @@
+.cardHighlight {
+  color: white;
+}
+
+.cardHighlight .card-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+}
+
+.cardHighlight .footer a {
+  color: black;
+}
+.preview {
+  width: 45%;
+  height: 150px;
+}
