@@ -15,7 +15,7 @@ export default function home() {
             </div>
             <section>
               <h2>Mission & Vision</h2>
-              <div class="mission-vision">
+              <div className="mission-vision">
                 <p>
                   Our mission is to provide innovative and reliable mobile power
                   solutions, enhancing the way you live and work with your
@@ -31,7 +31,7 @@ export default function home() {
 
             <section>
               <h2>Contact Us</h2>
-              <div class="contact">
+              <div className="contact">
                 <p>Email: info@mophie.com</p>
                 <p>Phone: 123-456-7890</p>
               </div>

@@ -1,5 +1,4 @@
 import HomeProductCard from "./HomeProductCard";
-import ProductSearch from "./SearchProduct";
 
 import { useState, useEffect } from "react";
 

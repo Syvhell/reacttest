@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from "react";
-import { Container, Card, Button, Row, Col } from "react-bootstrap";
+import { Card, Button } from "react-bootstrap";
 import { useParams, useNavigate, Link } from "react-router-dom";
 import Footer from "../components/Footer";
 import UserContext from "../UserContext";

@@ -115,7 +115,7 @@ export default function Login() {
               </div>
             </div>
             <div className="mb-3">
-              <label for="exampleInputPassword1" class="form-label">
+              <label for="exampleInputPassword1" className="form-label">
                 Password
               </label>
               <input

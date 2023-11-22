@@ -2,7 +2,6 @@
 // import CourseCard from "../components/CourseCard";
 import { useEffect, useState, useContext } from "react";
 import UserContext from "../UserContext";
-import UserView from "../components/UserView";
 import Footer from "../components/Footer";
 import AllOrders from "../components/AllOrders";
 

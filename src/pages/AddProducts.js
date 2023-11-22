@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from "react";
-import { Form, Button, Card, Col } from "react-bootstrap";
+import { Form, Button } from "react-bootstrap";
 import UserContext from "../UserContext";
 import { Navigate, useNavigate } from "react-router-dom";
 import Footer from "../components/Footer";

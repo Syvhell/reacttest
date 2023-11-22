@@ -1,6 +1,5 @@
 import ProductCard from "./ProductCard";
 import ProductSearch from "./SearchProduct";
-import Banner from "./Banner";
 
 import { useState, useEffect } from "react";
 

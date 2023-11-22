@@ -87,9 +87,9 @@ export default function Register() {
     <Navigate to="/" />
   ) : (
     <>
-      <div className="hero container-fluid vh-100">
+      <div className="hero d-flex justify-content-center align-items-start vh-100">
         <div className="container">
-          <div className="row justify-content-center pt-5">
+          <div className="row justify-content-center vh-100">
             <form className="row g-3" onSubmit={registerUser}>
               <div>
                 <h1>Register</h1>
